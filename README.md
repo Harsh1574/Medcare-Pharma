@@ -190,7 +190,7 @@ The full procure-to-pay flow above runs locally ([setup below](#-run-it-yourself
 
 ## 👩‍💻 My role
 
-> **[Your Name]**: owner of the **invoice OCR module** and the **3-way match validation** used by the live app.
+> **Harshvardhan Rajgarhia** ([@Harsh1574](https://github.com/Harsh1574)): owner of the **invoice OCR module** and the **3-way match validation** used by the live app.
 
 **1. Built an OCR pipeline for handwritten and scanned invoices** (`src/extract.py`)
 
@@ -356,6 +356,6 @@ docs/             Screenshots, assets, technical notes
 
 ## 🤝 Team
 
-Built in a team of five for the **Cognizant NPN Supply Chain Hackathon**: Debopam Ghosh, Chandana Jana, Dipti Choubey, Harshvardhan Rajgarhia, Subhodeep Ghosh.
+Built in a team of five for the **Cognizant NPN Supply Chain Hackathon**: Debopam Ghosh, Chandana Jana, Dipti Choubey, **Harshvardhan Rajgarhia**, Subhodeep Ghosh.
 
 <p align="center"><sub>MedCare Pharma is a fictional company. All demand, supplier and invoice data is synthetic.</sub></p>
