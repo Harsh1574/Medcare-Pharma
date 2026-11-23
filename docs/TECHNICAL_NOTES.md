@@ -306,4 +306,4 @@ Being upfront about this on purpose — it's a strength for this submission, not
 
 ## Team / contributors
 
-Debopam Ghosh, Chandana Jana, Dipti Choubey, Harshvardhan Rajgarhia, Subhodeep Ghosh — Cognizant NPN Hackathon.
+Debopam Ghosh, Chandana Jana, Dipti Choubey, Harsvardhan Rajgarhia, Subhodeep Ghosh — Cognizant NPN Hackathon.
